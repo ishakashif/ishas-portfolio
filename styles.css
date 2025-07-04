@@ -1,3 +1,32 @@
+
+html, body {
+  background-color: #a47b51;
+  margin: 0;
+  padding: 0;
+}
+
+
 h1 {
     text-align: center;
+    margin: 0;
 }
+
+
+
+nav > ul {
+    display: flex;
+    list-style-type: none;
+    gap: 10em;
+    justify-content: flex-end;
+    margin: -15px 0 0 0;
+    padding: 40px;
+    background-color: #9c0101;
+    
+}
+
+nav > ul > li > a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+} 
