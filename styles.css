@@ -15,7 +15,7 @@ h1 {
 nav > ul {
     display: flex;
     list-style-type: none;
-    gap: 10em;
+    gap: 8em;
     justify-content: flex-end;
     margin: -10px 0 0 0;
     padding: 40px;
