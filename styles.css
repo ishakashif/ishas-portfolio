@@ -1,6 +1,6 @@
 
 html, body {
-  background-color: #a47b51;
+  background-color: #473810;
   margin: 0;
   padding: 0;
 }
@@ -19,7 +19,7 @@ nav > ul {
     justify-content: flex-end;
     margin: -10px 0 0 0;
     padding: 40px;
-    background-color: #9c0101;
+    background-color: #26110D; 
     
 }
 
@@ -79,12 +79,12 @@ nav {
 } 
 
 .header-text > h1 {
-    font-size: 70px;
+    font-size: 80px;
     margin: 0;
 } 
 
 .header-text > p {
-    font-size: 24px;
+    font-size: 30px;
     margin: 10px 0 0 0;
 }
 
