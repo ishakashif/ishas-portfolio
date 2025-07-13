@@ -140,4 +140,12 @@ main > section > h2 {
     animation: fadeIn 3s;
 }
 
+#project-photos > ul {
+    display: flex;
+}
+
+#my-projects img {
+    width: 50px;
+}
+
 /* next task! PUT A WHITE, DOUBLE BORDER AROUND THE FOUR PHOTOS! */
