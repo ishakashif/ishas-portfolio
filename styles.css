@@ -3,6 +3,8 @@ html, body {
   background-color: #473810;
   margin: 0;
   padding: 0;
+  background-image: linear-gradient(to right, #26110D, #473810);
+  
 }
 
 
