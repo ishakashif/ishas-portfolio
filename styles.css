@@ -17,10 +17,10 @@ h1 {
 nav > ul {
     display: flex;
     list-style-type: none;
-    gap: 8em;
+    gap: 2em;
     justify-content: flex-end;
-    margin: -10px 0 0 0;
-    padding: 40px;
+    margin: 0px 0 0 0px;
+    padding: 25px;
     background-color: #26110D; 
     
 }
@@ -30,6 +30,8 @@ nav > ul > li > a {
     text-decoration: none;
     font-weight: bold;
     font-size: 20px;
+    padding-right: 130px;
+    
 } 
 
 
@@ -143,11 +145,15 @@ main > section > h2 {
 }
 
 #project-photos > ul {
+    list-style-type: none;
     display: flex;
+    gap: 50px;
+    justify-content: center;
+
 }
 
 #my-projects img {
-    width: 50px;
+    width: 300px;
 }
 
 /* next task! PUT A WHITE, DOUBLE BORDER AROUND THE FOUR PHOTOS! */
