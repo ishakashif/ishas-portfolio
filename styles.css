@@ -156,4 +156,20 @@ main > section > h2 {
     width: 300px;
 }
 
+#contact-information > ul {
+    display: flex;
+    color: white;
+    gap: 3em;
+    margin-left: 31.5%;
+    font-size: 25px;
+}
+
+#contact-information > ul > li > a {
+    color: white;
+    text-decoration: none;
+}
+
+#contact-information > ul > li > a:hover {
+    color: #80692b;
+}
 /* next task! PUT A WHITE, DOUBLE BORDER AROUND THE FOUR PHOTOS! */
